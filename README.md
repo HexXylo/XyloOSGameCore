@@ -1,6 +1,6 @@
 # XyloOSGameCore
 
-<img src="https://raw.githubusercontent.com/HexXylo/XyloOSGameCore/main/banner.png" alt="Xylo Banner" width="100%">
+<img src="[https://raw.githubusercontent.com/HexXylo/XyloOSGameCore/main/banner.png](https://raw.githubusercontent.com/HexXylo/XyloOSGameCore/refs/heads/main/docs/banner.png)" alt="Xylo Banner" width="100%">
 
 # Xylo: Game-Core
 
